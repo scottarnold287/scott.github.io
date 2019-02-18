@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Starter</title>
+<link rel="stylesheet" href="reset.css" type="text/css" />
+<link rel="stylesheet" href="stylesheet.css" type="text/css" />
+</head>
+<body>
+<div id="pic">
+<img src="images/2.jpg" width="500" height="300" alt="Zinepic 2" /></a></p>
+<img src="images/3.jpg" width="500" height="300" alt="Zinepic 3" /></a></p>
+<img src="images/8.jpg" width="500" height="300" alt="Zinepic 8" /></a></p>
+<img src="images/9.jpg" width="500" height="300" alt="Zinepic 1" /></a></p>
+<img src="images/4.jpg" width="500" height="700" alt="Zinepic 1" /></a></p>
+
+</div>
+<h1>Zine pages</h1></p>
+<div id="text">
+<p>
+<br>
+</p>
+<h2></h2>
+<br>
+<p><h3>Links:</h3>
+<br>
+<a href="http://www.google.com">Google</a><p>
+<a href="http://blackboard.soton.ac.uk">Blackboard</a><p>
+<a href="http://en.wikipedia.org/wiki/Zines">Zine info (wiki) </a><p>
+<br>
+<br>
+<div id="top">
+</div>
+
+<div id="secondarycontent">
+</div>
+<div id="bottom">
+</div>
+
+
+<ul>
+<li>A little info</li>
+<br>
+<li>My zine displays work from a photographic <br> point.
+I have tryed to add elements of motion in my designs 
+aswell as some amount of story telling.
+<br>There is a fair amount of a horror element <br> to the theme of my photos
+</li>
+
+</ul>
+</div>
+</li>
+</body>
+</html>
